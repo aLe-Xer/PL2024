@@ -1,0 +1,24 @@
+Modalidades: 
+Andebol
+Atletismo
+BTT
+Badminton
+Basquetebol
+Ciclismo
+Dança
+Equitação
+Esgrima
+Futebol
+Karaté
+Orientação
+Parapente
+Patinagem
+Triatlo
+
+Percentagem de atletas aptos = 54.0
+Percentagem de atletas inaptos = 46.0
+
+Numero de pessoas por escalao:
+[20-24] = 80
+[25-29] = 102
+[30-34] = 104
